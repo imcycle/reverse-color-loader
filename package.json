@@ -1,11 +1,12 @@
 {
   "name": "reverse-color-loader",
   "version": "1.0.0",
-  "description": "",
+  "description": "reverse color css loader for webpack",
+  "license": "MIT",
+  "repository": "whosmeya/reverse-color-loader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "whosmeya",
-  "license": "ISC"
+  "author": "whosmeya"
 }
